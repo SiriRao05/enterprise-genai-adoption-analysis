@@ -73,17 +73,11 @@ Records are distributed across 14 industries, enabling industry-level comparison
 
 ![Industry Adoption](visuals/02_industry_adoption.png)
 
-## Adoption Over Time
-
-The dataset covers adoption records from 2022–2024.
-
-![Adoption Trend](visuals/03_adoption_trend.png)
-
 ## Productivity by GenAI Tool
 
 Average reported productivity change differs across GenAI tools.
 
-![Productivity by Tool](visuals/04_productivity_by_tool.png)
+![Productivity by Tool](visuals/03_tool_productivity.png)
 
 **Business relevance:** Provides a basis for comparing reported productivity outcomes across tools.
 
