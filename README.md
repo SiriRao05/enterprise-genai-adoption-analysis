@@ -65,19 +65,19 @@ Business Findings
 
 The dataset contains six GenAI tools with broadly similar representation.
 
-![Tool Adoption](visuals/01_tool_adoption.png)
+<img src="visuals/01_tool_adoption.png" width="600">
 
 ## Adoption Across Industries
 
 Records are distributed across 14 industries, enabling industry-level comparisons.
 
-![Industry Adoption](visuals/02_industry_adoption.png)
+<img src="visuals/02_industry_adoption.png" width="600">
 
 ## Productivity by GenAI Tool
 
 Average reported productivity change differs across GenAI tools.
 
-![Productivity by Tool](visuals/03_tool_productivity.png)
+<img src="visuals/03_tool_productivity.png" width="600">
 
 **Business relevance:** Provides a basis for comparing reported productivity outcomes across tools.
 
@@ -85,7 +85,7 @@ Average reported productivity change differs across GenAI tools.
 
 Training hours were compared with reported productivity change using correlation analysis.
 
-![Training vs Productivity](visuals/04_training_productivity.png)
+<img src="visuals/04_training_productivity.png" width="600">
 
 **Correlation:** -0.00035
 
@@ -93,9 +93,10 @@ Training hours were compared with reported productivity change using correlation
 
 ## Industry × GenAI Tool Usage
 
-![Industry Tool Usage](visuals/05_tool_industry.png)
+<img src="visuals/05_tool_industry.png" width="600">
 
 A chi-square test found **no statistically significant association** between industry and GenAI tool usage (`p > 0.05`).
+
 ---
 
 ## Dataset
