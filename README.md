@@ -85,18 +85,17 @@ Average reported productivity change differs across GenAI tools.
 
 Training hours were compared with reported productivity change using correlation analysis.
 
-![Training vs Productivity](visuals/05_training_productivity.png)
+![Training vs Productivity](visuals/04_training_productivity.png)
 
-**Correlation:** `[INSERT VALUE]`
+**Correlation:** -0.00035
 
 **Business relevance:** Examines whether organizations providing more training also report different productivity outcomes.
 
 ## Industry × GenAI Tool Usage
 
-![Industry Tool Usage](visuals/06_industry_tool_heatmap.png)
+![Industry Tool Usage](visuals/05_tool_industry.png)
 
 A chi-square test found **no statistically significant association** between industry and GenAI tool usage (`p > 0.05`).
-
 ---
 
 ## Dataset
